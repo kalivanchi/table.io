@@ -1,0 +1,40 @@
+tr{
+padding: 8px;
+
+text-align: left;
+
+border: 1px solid #ccc;
+
+
+}
+td{
+padding: 8px;
+border: 1px;
+border: 1px solid #ccc;
+
+
+
+text-align: left;
+
+}
+th{
+    padding: 8px;
+    border: 1px;
+    border: 1px solid #ccc;
+
+
+text-align: left;
+font-weight: bold;
+background-color: #eee;
+
+}
+body {
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+  }
+    
